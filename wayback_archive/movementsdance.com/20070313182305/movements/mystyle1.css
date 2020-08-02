@@ -1,0 +1,290 @@
+
+body{
+text-align:center;
+font-family:verdana,sans serrif,arial;
+background-color:#e3940c;
+margin:10px;
+margin-top:0px;
+font-size:11px;
+background-image:url('images/bg6.jpg');
+background-attachment: fixed;
+
+}
+table{
+text-align:justify;
+font-family:verdana,sans serrif,arial;
+background-color:#ce943a;
+margin:10px;
+margin-top:0px;
+
+background-attachment: fixed;
+
+}
+
+
+#quotes{
+font-size:12px;
+}
+
+#list{
+
+margin-left:80px;
+border:4px double #402000;
+padding:10px;
+width:300px;
+color:#402000;
+line-height:20px;
+}
+
+#list1{
+color:#402000;
+border:4px double #402000;
+padding:10px;
+width:460px;
+line-height:20px;
+}
+
+#list2{
+text-align:left;
+color:#402000;
+border:4px double #402000;
+padding:10px;
+width:460px;
+line-height:20px;
+}
+#listevents{
+color:#402000;
+border:4px double #402000;
+padding:10px;
+width:440px;
+line-height:20px;
+}
+#listdirector{
+color:#402000;
+border:4px double #402000;
+padding:10px;
+width:460px;
+margin-top:20px;
+
+line-height:20px;
+}
+
+.rightcol{
+text-align:justify;
+
+}
+#rightcol{
+font-size:12px;
+padding:18px;
+width:480px;
+margin-left:8px;
+text-align:justify;
+background-color:#ce943a;
+/*background-image:url('images/bg5.jpg');*/
+color:#351b00;
+font-family:verdana;
+/*background-color:#e3940c;*/
+
+
+/*border-left:10px #d27c01 solid;*/
+
+}
+
+
+#h3{
+margin-top:50px;
+
+}
+
+h1{
+
+font-family:georgia;
+color:#400040;
+
+}
+
+#links{
+font-size:13px;
+text-align:left;
+font-family:verdana;
+padding:2px;
+font-weight:bold;
+background-color:#10591b;
+margin:0 0 0 0;
+}
+
+#links a{
+color:#cac7c1;
+text-decoration:none;
+padding-left:5px;
+border-bottom:1px solid #337041;
+width:200px;
+display:block;
+
+}
+
+#links a:hover{ 
+	font-weight: bold; 
+	text-decoration: none; 
+	color:#402000;
+	background-color:#ce943a;
+	
+	}
+	
+.leftcol{
+background-color:#10591b;
+
+
+}
+.footer{
+text-align:center;
+background-color:#10591b;
+/*background-image:url('images/footer.jpg');*/
+height:25px;
+padding:4px;
+color:#fff;
+font-size:11px;
+}
+.footer a{
+text-decoration:underline;
+color:#fff;
+}
+.footer a:hover{
+color:#f1b4d2;
+}
+
+
+#em{
+color:#402000;
+font-size:11px;
+font-weight:bold;
+font-family:verdana;
+margin-left:250px;
+}
+#testi{
+color:#402000;
+font-size:11px;
+font-weight:bold;
+font-family:verdana;
+
+}
+
+#contact{
+font-family:verdana;
+font-size:13px;
+color:#5e2915;
+}
+
+#sharlene a{
+color:#2b002b;
+}
+
+#sharlene a:hover{
+color:#5e2915;
+}
+
+community{
+margin-left:50px;
+}
+
+#phone{
+
+font-family:verdana;
+font-size:12px;
+padding:10px;
+width:200px;
+color:#cac7c1;
+}
+
+#dancers{
+
+font-size:12px;
+color:#eb4b69;
+ }
+
+#dancers a{
+font-size:13px;
+color:#fff;
+border-bottom:1px solid #10591b;
+padding:9px; 
+}
+
+
+#index{
+margin-left:200px;
+margin-top:100px;
+}
+
+#rightcol2{
+font-size:12px;
+padding:15px;
+text-align:justify;
+background-color:#ce943a;
+/*background-color:#e3940c;*/
+/*background-image:url('images/bg5.jpg');*/
+color:#351b00;
+font-family:verdana;
+margin-left:10px;
+}
+.maincontent{
+background-color:#e3940c;
+}
+
+#kapri{
+width:487px;
+
+}
+#garfield{
+width:487px;
+
+}
+
+
+
+#btn a{
+font-size:15px;
+font-weight:bold;
+margin-left:200px;
+margin-top:100px;
+text-decoration:none;
+}
+
+#btn a:hover{
+
+text-decoration:underline;
+color:#fff;
+}
+
+#getfest{
+margin-top:100px;
+height:110px;
+
+}
+#openhouse{
+border:1px solid ##402000;
+
+padding:10px;
+
+
+
+}
+.tblprice{
+background-color:#fff;
+}
+
+
+h5{
+text-decoration:;
+font-size:13px;
+
+}
+strong{
+font-size:11px;
+
+}
+
+
+
+
+
+
