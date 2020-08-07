@@ -28,7 +28,7 @@ p	{font-family:Gill Sans, sans-serif; font-size: medium;}
 
 .rightcol{ text-align:justify;  } 
 #rightcol{ font-size:12px; padding:18px; 
-width:480px; margin-left:8px; 
+width:56vw; min-width: 480px; margin-left:8px;
 text-align:justify; 
 background-color:#F3A123; 
 border-top: 4px solid #F36C23;
@@ -39,8 +39,8 @@ font-family:Gill Sans, sans-serif; /*background-color:#e3940c;*/   /*border-left
 #h3{ margin-top:50px; }  
 
 h1{  font-family:Gill Sans, sans-serif; color:#400040;  }  
-h2{  font-family:Gill Sans, sans-serif; color:#400040; font-size: large; margin-left: 175px;  }  
-h4{  font-family:Gill Sans, sans-serif; color:#400040; font-size: medium; margin-left: 150px;}  
+h2{  font-family:Gill Sans, sans-serif; color:#400040; font-size: large; text-align: center;  }
+h4{  font-family:Gill Sans, sans-serif; color:#400040; font-size: medium; text-align: center; }
 
 
 #links{ font-size:medium; text-align:left; font-family:Gill Sans, sans-serif; padding:2px; font-weight:bold; background-color:#ACD037; margin:0 0 0 0; }  
@@ -92,7 +92,7 @@ h4{  font-family:Gill Sans, sans-serif; color:#400040; font-size: medium; margin
 .footer a{ text-decoration:underline; color:#fff; } 
 .footer a:hover{ color:#f1b4d2; }   
 
-#em{ color:#402000; font-size:11px; font-weight:bold; font-family:Gill Sans, sans-serif; margin-left:250px; } 
+#em{ color:#402000; font-size:11px; font-weight:bold; font-family:Gill Sans, sans-serif; text-align: right; margin-right: 25px; }
 
 #testi{ color:#402000; font-size:11px; font-weight:bold; font-family:Gill Sans, sans-serif;  }  
 
@@ -106,8 +106,9 @@ h4{  font-family:Gill Sans, sans-serif; color:#400040; font-size: medium; margin
 
 #index{ margin-left:200px; margin-top:100px; }  
 
-#kapri{ width:487px; margin-left: 15px; padding: 5px; } #garfield{ width:487px; margin-left: 15px; padding: 5px;  }    
-#btn a{ font-size:15px; font-weight:bold; margin-left:200px; margin-top:100px; text-decoration:none; }  
+#kapri, #garfield, #testimonials { padding: 5px; }
+#btn { text-align: center; }
+#btn a{ font-size:15px; font-weight:bold; margin-top:100px; text-decoration:none; }
 
 #btn a:hover{  text-decoration:underline; color:#fff; }  
 #getfest{ margin-top:100px; height:110px;  } 
