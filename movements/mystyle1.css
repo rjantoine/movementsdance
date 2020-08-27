@@ -24,7 +24,7 @@ p	{font-family:Gill Sans, sans-serif; font-size: medium;}
 #list2{ text-align:left; color:#402000; padding:10px; width:460px; line-height:20px; }  
 #list3{ color:#402000; border:0px; padding:10px; width:460px; line-height:20px; }  
 #listevents{ color:#402000; border:4px double #402000; padding:10px; width:440px; line-height:20px; } 
-#listdirector{ color:#402000; padding:10px; width:460px; margin-top:20px;  line-height:20px; }  
+#listdirector{ color:#402000; padding:10px; font-size: 16px; margin-top:20px;  line-height:20px; }
 
 .rightcol{ text-align:justify;  } 
 #rightcol{ font-size:12px; padding:18px; 
